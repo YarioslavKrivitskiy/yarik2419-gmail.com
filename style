@@ -1,0 +1,18 @@
+body{background: url("../images/fon.jpg" ) no-repeat  center;
+
+}
+.logo {
+	background-color: green;
+	height: 200px; 
+}
+.logo1 {
+	background-color:  pink;
+	height: 50px;
+	width: 500px;
+}
+.logo2 {
+	background-color: blue;
+	height: 50px;
+	width: 200px;
+}
+ul{color: pink};
